@@ -37,7 +37,6 @@ python remove_duplicates.py
 ## Screenshots
 Add screenshots to show the UI and typical results. Place image files in a `docs/` folder and reference them here.
 
-```markdown
 Compare Two different directories
 <img width="896" height="608" alt="image" src="https://github.com/user-attachments/assets/d4040165-802f-4e1b-b67e-f3993f7c99ff" />
 
@@ -50,8 +49,6 @@ Results Duplicates within A:
 Results Duplicates between A and B
 <img width="896" height="613" alt="image" src="https://github.com/user-attachments/assets/001e41eb-b6e7-43de-9695-44160ab3d071" />
 
-
-```
 
 ## Bug Reports
 Please use the GitHub issue template and include:
