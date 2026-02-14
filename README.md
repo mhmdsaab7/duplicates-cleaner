@@ -27,6 +27,7 @@ python remove_duplicates.py
 ## How It Works
 - Computes SHA-256 hashes in 1 MB chunks
 - Files are treated as duplicates when both size and hash match
+- Detects true duplicates by content (size + SHA-256), even with different names
 
 ## Safety Notes
 - Moving duplicates is safer than deleting
