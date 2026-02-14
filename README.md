@@ -38,8 +38,19 @@ python remove_duplicates.py
 Add screenshots to show the UI and typical results. Place image files in a `docs/` folder and reference them here.
 
 ```markdown
-![Main Window](docs/main-window.png)
-![Scan Results](docs/scan-results.png)
+Compare Two different directories
+<img width="896" height="608" alt="image" src="https://github.com/user-attachments/assets/d4040165-802f-4e1b-b67e-f3993f7c99ff" />
+
+Compare within same directory
+<img width="903" height="607" alt="image" src="https://github.com/user-attachments/assets/0033dce7-961c-4b78-b0a1-4a62a084a944" />
+
+Results Duplicates within A:
+<img width="2304" height="1728" alt="image" src="https://github.com/user-attachments/assets/26397d45-4e4b-4a27-bed3-49b7a73477b0" />
+
+Results Duplicates between A and B
+<img width="896" height="613" alt="image" src="https://github.com/user-attachments/assets/001e41eb-b6e7-43de-9695-44160ab3d071" />
+
+
 ```
 
 ## Bug Reports
